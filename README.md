@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://twitter.com/@titoparra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@titoparra4" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/titoparra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/titoparra/" height="20" width="20" /></a>
-<a href="https://fb.com/https://www.facebook.com/tito.parra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tito.parra4" height="20" width="20" /></a>
-<a href="https://instagram.com/@titoparra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@titoparra4" height="20" width="20" /></a>
+<a href="https://linkedin.com/in//in/titoparra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/titoparra/" height="20" width="20" /></a>
+<a href="https://fb.com/tito.parra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tito.parra4" height="20" width="20" /></a>
+<a href="https://instagram.com/titoparra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titoparra4" height="20" width="20" /></a>
 </p>
