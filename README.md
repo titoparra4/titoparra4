@@ -1,3 +1,4 @@
+![Image of TitoParra](https://www.titoparra.com/img/BannerL.png)
 <h1 align="center">Hi, I'm Tito Parra</h1>
 <h3 align="center">I'm Tito Parra. I am a simple, creative, dreamy and technology-loving person. I always like to create applications on my own, to put my knowledge into practice. </h3>
 <h3 alingn="center">I have experience and work daily with technologies such as C#, ASP.Net, ASP.Net Core, Microsoft SQL, Xamarin, API REST, Entity Framework, MVC, MVVM, Blazor, HTML5, CSS3, Javascript.</h3>
