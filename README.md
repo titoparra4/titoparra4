@@ -1,6 +1,6 @@
 <h1 align="center">Tito Parra</h1>
 
-<h3 align="center">Senior Technical Product Owner | AI Product Management | Digital Platforms</h3>
+<h3 align="center">AI Product Management | Senior Technical Product Owner | Digital Platforms</h3>
 
 <p align="center"><em>Engineering background. Product mindset. Business impact.</em></p>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Senior Technical Product Owner and Software Engineer with **17+ years of experience** in technology, combining hands-on software engineering, technical leadership, and digital product management.
+I'm a Senior Product Management and Software Engineer with **17+ years of experience** in technology, combining hands-on software engineering, technical leadership, and digital product management.
 
 My career has evolved from building enterprise applications with .NET, C#, SQL, and Angular to leading complex digital initiatives, API ecosystems, and cross-functional teams across Latin America.
 
