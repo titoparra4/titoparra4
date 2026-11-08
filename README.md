@@ -87,7 +87,7 @@ Open-source [Agent Skills](https://agentskills.io) (`SKILL.md` format) that work
 
 ### 🛡️ [Secure Code Reviewer](https://github.com/titoparra4/secure-code-reviewer)
 
-[![Release](https://img.shields.io/github/v/release/titoparra4/secure-code-reviewer?style=flat-square)](https://github.com/titoparra4/secure-code-reviewer/releases)
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue?style=flat-square)](https://github.com/titoparra4/secure-code-reviewer/releases)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
 
@@ -122,7 +122,7 @@ python3 scripts/generate_report.py /tmp/scr-report.json -f sarif -o /tmp/scr-rep
 
 ### 🧪 [Intelligent QA Engineer](https://github.com/titoparra4/intelligent-qa-engineer)
 
-[![Release](https://img.shields.io/github/v/release/titoparra4/intelligent-qa-engineer?style=flat-square)](https://github.com/titoparra4/intelligent-qa-engineer/releases)
+[![Release](https://img.shields.io/badge/release-v0.1.0-blue?style=flat-square)](https://github.com/titoparra4/intelligent-qa-engineer/releases)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 Turns user stories, requirements, OpenAPI contracts and code changes into risk-based test strategies, traceable test cases, negative and edge scenarios, runnable API automation (Postman/Newman, pytest, Playwright, Jest/Vitest), regression plans and QA reports. Works in English and Spanish.
