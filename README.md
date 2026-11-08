@@ -81,4 +81,77 @@ Current areas of exploration include:
 - **AI Skills & Automation:** Reusable AI capabilities for ChatGPT, Claude, and developer environments.
 - **Technical Product Management:** Bringing structure, automation, and intelligence to product discovery and delivery.
 
+## Featured Open Source Projects
+
+Open-source [Agent Skills](https://agentskills.io) (`SKILL.md` format) that work with Claude Code, OpenAI Codex and other compatible AI assistants.
+
+### 🛡️ [Secure Code Reviewer](https://github.com/titoparra4/secure-code-reviewer)
+
+[![Release](https://img.shields.io/github/v/release/titoparra4/secure-code-reviewer?style=flat-square)](https://github.com/titoparra4/secure-code-reviewer/releases)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
+
+Evidence-based security code review for source code, secrets, dependencies, APIs and infrastructure-as-code. Every finding is tied to a file and line, with sanitized evidence, calibrated severity, a fix and a regression test. Includes offline, dependency-free tooling that produces JSON, Markdown and SARIF reports.
+
+**Install**
+
+```bash
+# Any compatible agent (skills.sh CLI)
+npx skills add titoparra4/secure-code-reviewer
+
+# Claude Code (personal skill)
+git clone --depth 1 --branch v1.0.0 https://github.com/titoparra4/secure-code-reviewer.git \
+  ~/.claude/skills/secure-code-reviewer
+```
+
+**Usage**
+
+```text
+Review this repository for security vulnerabilities.
+Check this pull request for security risks.
+Find exposed secrets.
+Review my .NET APIs for OWASP vulnerabilities.
+```
+
+```bash
+# Command line: offline scan + SARIF report
+python3 scripts/scan_repository.py /path/to/repo --mode full -o /tmp/scr-raw.json
+python3 scripts/normalize_findings.py /tmp/scr-raw.json -o /tmp/scr-report.json
+python3 scripts/generate_report.py /tmp/scr-report.json -f sarif -o /tmp/scr-report.sarif
+```
+
+### 🧪 [Intelligent QA Engineer](https://github.com/titoparra4/intelligent-qa-engineer)
+
+[![Release](https://img.shields.io/github/v/release/titoparra4/intelligent-qa-engineer?style=flat-square)](https://github.com/titoparra4/intelligent-qa-engineer/releases)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+Turns user stories, requirements, OpenAPI contracts and code changes into risk-based test strategies, traceable test cases, negative and edge scenarios, runnable API automation (Postman/Newman, pytest, Playwright, Jest/Vitest), regression plans and QA reports. Works in English and Spanish.
+
+**Install**
+
+```bash
+# Any compatible agent (skills.sh CLI)
+npx skills add titoparra4/intelligent-qa-engineer
+```
+
+```text
+# Claude Code plugin marketplace
+/plugin marketplace add titoparra4/intelligent-qa-engineer
+/plugin install intelligent-qa-engineer@intelligent-qa-engineer
+```
+
+**Usage**
+
+```text
+Analyze this user story and generate test cases.
+Generate Postman tests from this OpenAPI specification.
+Build a regression test plan for this pull request.
+Analiza esta historia de usuario y genera casos de prueba negativos.
+```
+
+```text
+# Explicit invocation in Claude Code
+/intelligent-qa-engineer REGRESSION for the current git diff
+```
+
 > My focus is not AI for the sake of AI. It's building useful, reliable solutions that solve real problems.
