@@ -1,6 +1,6 @@
 <h1 align="center">Tito Parra</h1>
 
-<h3 align="center">AI Product Management | Senior Technical Product Owner | Digital Platforms</h3>
+<h3 align="center">AI Product Management & Digital Strategy | Senior Technical Product Owner LATAM</h3>
 
 <p align="center"><em>Engineering background. Product mindset. Business impact.</em></p>
 
